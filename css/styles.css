@@ -1,0 +1,7 @@
+.cover-image{
+    filter: brightness(50%);
+}
+.cover-button{
+    background-color: #289bde;
+    color: white;
+}
