@@ -1,7 +1,7 @@
 .cover-image{
     filter: brightness(50%);
 }
-.cover-button{
+.cover-button, .bg-registration {
     background-color: #289bde;
     color: white;
 }
@@ -9,5 +9,8 @@
     margin-top: 120px;
 }
 .price{
+    color: #289bde;
+}
+.reg-button{
     color: #289bde;
 }
