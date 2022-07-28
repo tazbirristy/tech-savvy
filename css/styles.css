@@ -1,7 +1,9 @@
-/* common style */
+/* common styles */
 .section-margin{
     margin-top: 120px;
-    
+}
+
+/* cover styles */
 .cover-image{
     filter: brightness(50%);
 }
@@ -10,13 +12,17 @@
     color: white;
 }
 
-}
+/* course section styles */
 .price{
     color: #289bde;
 }
+
+/* registration section styles */
 .reg-button{
     color: #289bde;
 }
+
+/* footer section styles */
 .savvy-footer{
     padding: 100px 0;
 }
